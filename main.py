@@ -35,9 +35,11 @@ def process_audio():
     response = get_ai_response(text)
     if LOGGING:
         print(f'AI Response: {response}')
-        print("Now attempting to speak this ^")
-        
+        print("Attempting to speak this.")
+
     speak_jp(response)    
+    if LOGGING:
+        print("Finished Speaking")
 
 def main():
     try:
