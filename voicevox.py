@@ -1,3 +1,8 @@
+# This file includes code subject to the MIT License. 
+# For the full text of the license, see LICENSES/LICENSE-languageleapai.txt.
+# The original code can be found at https://github.com/SociallyIneptWeeb/LanguageLeapAI.
+# This modified code is also subject to the MIT License.
+
 from os import getenv
 from urllib.parse import urlencode
 
