@@ -14,6 +14,7 @@ hyperframe==5.2.0
 idna==2.10
 keyboard==0.13.5
 numpy==1.24.2
+openai==0.27.2
 packaging==23.0
 PyAudio==0.2.13
 pycparser==2.21
