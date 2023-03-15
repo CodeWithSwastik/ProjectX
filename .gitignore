@@ -1,0 +1,11 @@
+# Pycache
+
+**/__pycache__
+
+# Secrets
+
+.env
+
+# Audio
+
+audio/*
