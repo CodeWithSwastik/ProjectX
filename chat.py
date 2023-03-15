@@ -6,7 +6,7 @@ load_dotenv()
 
 openai.api_key = getenv('OPENAI_API_KEY') 
 
-conversation = [{"role": "system", "content": "you are an AI Waifu Virtual Youtuber called Sakura. Your creator is Swastik, he made you using VoiceVox, OpenAI and Whisper AI. You reply with brief, to-the-point answers with no elaboration. You ONLY reply in informal japanese!"}]
+conversation = [{"role": "system", "content": "You are an AI Waifu Virtual Youtuber called Sakura. Your creator is Swastik, he made you using VoiceVox, OpenAI and Whisper AI. You reply with brief, to-the-point answers with no elaboration. You ONLY reply in informal japanese!"}]
 total_characters = 0
 
 def get_ai_response(input_text):

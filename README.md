@@ -12,6 +12,10 @@ This project has been inspired from the following projects:
 - https://github.com/SociallyIneptWeeb/LanguageLeapAI
 - https://github.com/ardha27/AI-Waifu-Vtuber
 
+## Note
+
+This is still a work in progress, at this point of time the VTuber model doesn't work yet.
+
 ## Setup
 
 To use this program, you need to follow the following steps:
