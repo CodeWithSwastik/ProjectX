@@ -9,3 +9,7 @@
 # Audio
 
 audio/*
+
+# VRM files
+
+*.vrm
