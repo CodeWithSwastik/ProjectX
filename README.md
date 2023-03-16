@@ -3,16 +3,6 @@
 ![Project X (1)](https://user-images.githubusercontent.com/61446939/225300921-299b0803-4114-4e8b-96e5-9f18d63332d1.png)
 
 
-
-## Inspiration
-
-This project has been inspired from the following projects:
-
-- https://youtu.be/dKFnJCtcfMk
-- https://github.com/SociallyIneptWeeb/LanguageLeapAI
-- https://github.com/ardha27/AI-Waifu-Vtuber
-
-
 ## Setup
 
 To use this program, you need to follow the following steps:
@@ -27,3 +17,15 @@ To use this program, you need to follow the following steps:
 7. Upload a VRM model
 8. Set audio input to your speaker's output
 9. You get your AI Waifu!
+
+![image](https://user-images.githubusercontent.com/61446939/225358501-b2a25070-415b-441a-b20d-049b3c181137.png)
+
+
+
+## Inspiration
+
+This project has been inspired from the following projects:
+
+- https://youtu.be/dKFnJCtcfMk
+- https://github.com/SociallyIneptWeeb/LanguageLeapAI
+- https://github.com/ardha27/AI-Waifu-Vtuber
