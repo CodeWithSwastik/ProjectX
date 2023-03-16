@@ -17,3 +17,4 @@ audio/*
 # Livestream related
 
 output.txt
+livestream.py
