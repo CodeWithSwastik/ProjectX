@@ -13,3 +13,7 @@ audio/*
 # VRM files
 
 *.vrm
+
+# Livestream related
+
+output.txt

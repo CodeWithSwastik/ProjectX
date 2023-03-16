@@ -6,7 +6,7 @@ import keyboard
 from dotenv import load_dotenv
 
 from asr import transcribe
-from voicevox import speak_jp
+from tts import speak
 from voice_recorder import record_audio
 from chat import get_ai_response
 
@@ -37,7 +37,7 @@ def process_audio():
         print(f'AI Response: {response}')
         print("Attempting to speak this.")
 
-    speak_jp(response)    
+    speak(response)    
     if LOGGING:
         print("Finished Speaking")
 
